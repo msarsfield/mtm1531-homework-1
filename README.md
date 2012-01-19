@@ -1,11 +1,7 @@
 
-
-
-
 #<font color="blue">Twenty Thousand Leagues under the Sea, by Jules Verne</font> <br> </br>
  
 <i>Thousand Leagues Under the Sea</i> is a classic science fiction novel by French writer Jules Verne published in 1870. It tells the story of <font color="blue"><u>[Captain Nemo](http://en.wikipedia.org/wiki/Captain_Nemo)</u></font> and his submarine Nautilus as seen from the perspective of Professor Pierre Aronnax.
-
 
 
 <img src=http://upload.wikimedia.org/wikipedia/commons/4/4e/20000_title_0a.jpg height=283 width=172 alt="inside cover image French translation of 20,000 leagues under the sea">
