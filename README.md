@@ -1,46 +1,44 @@
-THOMAS,I'M NOT FINISHED YET.
+<width=1000px>
 
-# Twenty Thousand Leagues under the Sea, by Jules Verne
--------------------------------------------------------
 
-TESTING 1 2 3 Thousand Leagues Under the Sea is a classic science fiction novel by French writer Jules Verne published in 1870. It tells the story of Captain Nemo and his submarine Nautilus as seen from the perspective of Professor Pierre Aronnax.
+
+#<sub><font color="blue">Twenty Thousand Leagues under the Sea, by Jules Verne</sub></font> <br> </br>
+ 
+<i>Thousand Leagues Under the Sea</i> is a classic science fiction novel by French writer Jules Verne published in 1870. It tells the story of <font color="blue"><u>[Captain Nemo](http://en.wikipedia.org/wiki/Captain_Nemo)</u></font> and his submarine Nautilus as seen from the perspective of Professor Pierre Aronnax.
+
+
+
+<img src=http://upload.wikimedia.org/wikipedia/commons/4/4e/20000_title_0a.jpg height=283 width=172 alt="inside cover image French translation of 20,000 leagues under the sea">
 
  
-[Image Source](href http://upload.wikimedia.org/wikipedia/commons/4/4e/20000_title_0a.jpg)
+•	<font color="blue"><u>[Wikipedia entry](http://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)</u></font>
 
-•	Wikipedia entry
 * * *
 
-##Excerpt
+##<sub><sub><font color="blue">Excerpt</font></sub></sub><br></br>
 
-Part One
+Part One <br> 
 Chapter I: A Shifting Reef
 
 The year 1866 was signalised by a remarkable incident, a mysterious and puzzling phenomenon, which doubtless no one has yet forgotten. Not to mention rumours which agitated the maritime population and excited the public mind, even in the interior of continents, seafaring men were particularly excited. Merchants, common sailors, captains of vessels, skippers, both of Europe and America, naval officers of all countries, and the Governments of several States on the two continents, were deeply interested in the matter.
 
 For some time past vessels had been met by "an enormous thing," a long object, spindle-shaped, occasionally phosphorescent, and infinitely larger and more rapid in its movements than a whale.
 
-From Project Gutenberg											http://www.gutenberg.org/ebooks/164
-* * * 
+											
+•	<font color="blue"><u>[From Project Gutenberg](http://www.gutenberg.org/ebooks/164)</u></font>
 
-##_About Jules Verne_
+* * *
 
-		Jules Gabriel Verne (February 8, 1828 – March 24, 1905) was a French author who pioneered the science fiction genre. Verne wrote about space, air, and underwater travel before air travel and practical submarines were invented, and before practical means of space travel had been devised.
+##<sub><sub><font color="blue">About Jules Verne</font></sub></sub><br></br>
+ 
 
-•	Wikipedia entry                                           http://en.wikipedia.org/wiki/Jules_Verne
+Jules Gabriel Verne (February 8, 1828 – March 24, 1905) was a French author who pioneered the science fiction genre. Verne wrote about space, air, and underwater travel before air travel and practical submarines were invented, and before practical means of space travel had been devised.
 
-Other books by Jules Verne
+•	<font color="blue"><u>[Wikipedia entry](http://en.wikipedia.org/wiki/Jules_Verne)</u></font>
 
-1.	A Journey to the Centre of the Earth                      http://en.wikipedia.org/wiki/A_Journey_to_the_Center_of_the_Earth
-2.	Around the World in Eighty Days                           http://en.wikipedia.org/wiki/Around_the_World_in_Eighty_Days
+###<sub><font color="blue">Other books by Jules Verne</font></sub>
+
+1.	<font color="blue"><u>[A Journey to the Centre of the Earth](http://en.wikipedia.org/wiki/A_Journey_to_the_Center_of_the_Earth)</u></font>
+2.	<font color="blue"><u>[Around the World in Eighty Days](http://en.wikipedia.org/wiki/Around_the_World_in_Eighty_Days)</u></font>
 
 
-Reference-style:
-
-![alt text][id]
-
-[id]: /path/to/img.jpg "Title"
-
-Both of the above examples produce the same output:
-
-<img src="/path/to/img.jpg" alt="alt text" title="Title" />
